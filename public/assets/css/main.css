@@ -930,6 +930,7 @@ footer{
     .home__logo{
         position: static;
         text-align: center;
+        background-size: cover;
     }
     .home-title{
         font-size: 25px;

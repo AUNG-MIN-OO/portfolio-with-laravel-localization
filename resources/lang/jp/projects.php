@@ -14,6 +14,7 @@ return[
     'pjTitle4'=>'管理ダッシュボード',
     'pjTitle5'=>'キャッチゲーム',
     'pjTitle6'=>'ショッピングサイト',
+    'pjTitle7'=>'laravelで書いたブログ',
 
     'pjBtn'=>'テスト',
 

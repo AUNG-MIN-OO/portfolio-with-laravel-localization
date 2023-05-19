@@ -14,6 +14,7 @@ return[
     'pjTitle4'=>'Admin Dashboard',
     'pjTitle5'=>'Catch Game',
     'pjTitle6'=>'Shopping Website',
+    'pjTitle7'=>'Blog with Laravel',
 
     'pjBtn'=>'Demo',
 ];

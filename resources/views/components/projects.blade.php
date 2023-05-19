@@ -143,7 +143,7 @@
                                     <span class="tag">Css</span>
                                 </div>
                                 <br>
-                                <a href="#" target="_blank" class="portfolio__button">
+                                <a href="https://github.com/AUNG-MIN-OO/admin-dashboard" target="_blank" class="portfolio__button">
                                     {!! __('projects.pjBtn') !!}
                                     <i class="fas fa-arrow-right button__icon"></i>
                                 </a>
@@ -177,6 +177,23 @@
                                 </div>
                                 <br>
                                 <a href="https://shop.learnwithme.life/login.php" target="_blank" class="portfolio__button">
+                                    {!! __('projects.pjBtn') !!}
+                                    <i class="fas fa-arrow-right button__icon"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio__content">
+                            <img src="{{asset('assets/img/laravel_blog.png')}}" class="portfolio__img" alt="">
+                            <div class="portfolio__data">
+                                <span class="portfolio__card-title">{!! __('projects.pjTitle7') !!}</span>
+                                <div class="tags">
+                                    <span class="tag">Laravel</span>
+                                    <span class="tag">Bootstrap5</span>
+                                    <span class="tag">JavaScript</span>
+                                    <span class="tag">MySQL</span>
+                                </div>
+                                <br>
+                                <a href="https://laravelblog.learnwithme.life/" target="_blank" class="portfolio__button">
                                     {!! __('projects.pjBtn') !!}
                                     <i class="fas fa-arrow-right button__icon"></i>
                                 </a>

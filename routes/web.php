@@ -14,11 +14,9 @@ use App\Http\Controllers\HomeController;
 |
 */
 
-Route::get('/', function () {
-    return view('main');
-});
+Route::view('/','main');
 
 Route::get('lang/{lang}', ['as' => 'lang.switch', 'uses' => '\App\Http\Controllers\LanguageController@switchLang']);
 
-Route::get('/languageDemo', '\App\Http\Controllers\HomeController@languageDemo');
+Route::get('/languageDemo','\App\Http\Controllers\HomeController@languageDemo');
 

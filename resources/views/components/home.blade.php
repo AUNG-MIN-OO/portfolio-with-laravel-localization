@@ -30,11 +30,11 @@
                 <h4 class="home-subtitle" id="typewriter"></h4>
                 <div class="home_buttons">
                     <a href="#portfolio" class="home__btn">{{__('home.Portfolio')}}</a>
-                    <a href="" download="true" class="home__btn">{{__('home.Download CV')}}</a>
+                    <a href="{{asset('assets/cv_form/履歴書(S3950_アウンミンウー) (1).xlsx')}}" download="履歴書(S3950_アウンミンウー)" class="home__btn">{{__('home.Download CV')}}</a>
                 </div>
             </div>
             <div class="home__logo" data-aos="fade-left" data-aos-duration="1500">
-                <img src="assets/img/logo_img.png" alt="" class="home__img">
+                <img src="{{asset('assets/img/idphoto.jpg')}}" alt="" class="home__img">
             </div>
         </div>
     </div>
