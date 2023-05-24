@@ -30,7 +30,7 @@
                                     </tr>
                                     <tr>
                                         <td class="table__title">{!! __('about.subtitle4') !!}</td>
-                                        <td class="table__description">https://learnwithme.life</td>
+                                        <td class="table__description">https://iamstilllearning.com</td>
                                     </tr>
                                     <tr>
                                         <td class="table__title">{!! __('about.subtitle5') !!}</td>
