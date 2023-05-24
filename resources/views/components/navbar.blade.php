@@ -12,7 +12,7 @@
                     <a class="nav__link" href="#about">about</a>
                 </li>
                 <li class="nav__items">
-                    <a class="nav__link" href="#qualification">qualification</a>
+                    <a class="nav__link" href="#qualification">qualifications</a>
                 </li>
                 <li class="nav__items">
                     <a class="nav__link" href="#projects">projects</a>

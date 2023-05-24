@@ -26,7 +26,7 @@
                             <span><i class="fas fa-envelope contact__icon"></i></span>
                             <div class="contact__title">
                                 <h4>{!! __('contact.title2') !!}</h4>
-                                <span>s3950@scit.ac.jp</span>
+                                <span>aungminoo1314@gmail.com</span>
                             </div>
                         </div>
                     </div>
